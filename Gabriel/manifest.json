@@ -1,0 +1,22 @@
+{
+    "name": "APP GABRIEL MARCELINO",
+    "short_name": "GABRIEL",
+    "description": "APP GABRIEL MARCELINO",
+    "lang": "pt-BR",
+    "start_url": "./",
+    "scope": "./?",
+    "display": "fullscreen",
+    "theme_color": "black",
+    "icons": [{
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#ffffff"
+}
